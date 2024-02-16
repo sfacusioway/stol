@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.verh{
+    color:white;
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+    font-size:90px;
+}
+.table{
+    color:white;
+    font-size:30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 12px ridge white;
+    border-collapse: collapse;
+    font-family: 'Comfortaa', sans-serif;
+    padding: 15px;
+}
